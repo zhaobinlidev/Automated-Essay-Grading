@@ -85,6 +85,8 @@ visualize.main()
 
 |____training_set.csv (the essay and score dataset we use)
 
+|____latex (directory containing latex and bibtex to generate the write-up)
+
 |____img (directory containing the matplotlib graphs)
 |____data (directory containing the processed essay data and statistics)
 | |____qn 1-5 (For question 1 to 5, directory containing validation and test results by ngram)
