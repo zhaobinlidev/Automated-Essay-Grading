@@ -17,8 +17,15 @@ underlying function of GLSA.
 ## Keywords
 Automated Essay Grading; Latent Semantic Analysis; Singular Vector Decomposition; N-Grams.
 
-## Paper
-[Final Paper](AES_paper.pdf)
+## References
+* Hewlett, F. (2012). The Hewlett Foundation: Automated Essay Scoring. Retrieved 2018-12-16, from https://www.kaggle.com/c/asap-aes
+* Islam, M. M., & Hoque, A. L. (2010). Automated essay scoring using generalized latent semantic analysis. In 2010 13th international conference on computer and information technology (iccit) (pp. 358–363).
+* Kintsch, W. (2002). The potential of latent semantic analysis for machine grading of clinical case summaries. Journal of biomedical informatics, 35(1), 3–7.
+* Landauer, T. K., Foltz, P. W., & Laham, D. (1998). An introduction to latent semantic analysis. Discourse processes, 25(2-3), 259–284.
+* Shermis, M. D. (2014). State-of-the-art automated essay scoring: Competition, results, and future directions from a united states demonstration. Assessing Writing, 20, 53–76.
+
+## Download Paper
+[Automated Essay Grading using Latent Semantic Analysis Write-up](AES_paper.pdf)
 
 ## To run the program
 
