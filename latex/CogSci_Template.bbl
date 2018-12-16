@@ -1,0 +1,132 @@
+\begin{thebibliography}{}
+
+\bibitem [\protect \citeauthoryear {%
+Hewlett%
+}{%
+Hewlett%
+}{%
+{\protect \APACyear {2012}}%
+}]{%
+hewlett2012aes}
+\APACinsertmetastar {%
+hewlett2012aes}%
+\begin{APACrefauthors}%
+Hewlett, F.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2012}{}{}.
+\newblock
+\APACrefbtitle {The {Hewlett} {Foundation}: {Automated} {Essay} {Scoring}.}
+  {The {Hewlett} {Foundation}: {Automated} {Essay} {Scoring}.}
+\newblock
+\begin{APACrefURL} [{2018-12-16}]\url{https://www.kaggle.com/c/asap-aes}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Islam%
+\ \BBA {} Hoque%
+}{%
+Islam%
+\ \BBA {} Hoque%
+}{%
+{\protect \APACyear {2010}}%
+}]{%
+islam2010automated}
+\APACinsertmetastar {%
+islam2010automated}%
+\begin{APACrefauthors}%
+Islam, M\BPBI M.%
+\BCBT {}\ \BBA {} Hoque, A\BPBI L.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2010}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Automated essay scoring using generalized latent
+  semantic analysis} {Automated essay scoring using generalized latent semantic
+  analysis}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {2010 13th International Conference on Computer and
+  Information Technology (ICCIT)} {2010 13th international conference on
+  computer and information technology (iccit)}\ (\BPGS\ 358--363).
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Kintsch%
+}{%
+Kintsch%
+}{%
+{\protect \APACyear {2002}}%
+}]{%
+kintsch2002potential}
+\APACinsertmetastar {%
+kintsch2002potential}%
+\begin{APACrefauthors}%
+Kintsch, W.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2002}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {The potential of latent semantic analysis for machine
+  grading of clinical case summaries} {The potential of latent semantic
+  analysis for machine grading of clinical case summaries}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of biomedical informatics}{35}{1}{3--7}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Landauer%
+, Foltz%
+\BCBL {}\ \BBA {} Laham%
+}{%
+Landauer%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {1998}}%
+}]{%
+landauer1998introduction}
+\APACinsertmetastar {%
+landauer1998introduction}%
+\begin{APACrefauthors}%
+Landauer, T\BPBI K.%
+, Foltz, P\BPBI W.%
+\BCBL {}\ \BBA {} Laham, D.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1998}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {An introduction to latent semantic analysis} {An
+  introduction to latent semantic analysis}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Discourse processes}{25}{2-3}{259--284}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Shermis%
+}{%
+Shermis%
+}{%
+{\protect \APACyear {2014}}%
+}]{%
+shermis2014state}
+\APACinsertmetastar {%
+shermis2014state}%
+\begin{APACrefauthors}%
+Shermis, M\BPBI D.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2014}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {State-of-the-art automated essay scoring: Competition,
+  results, and future directions from a United States demonstration}
+  {State-of-the-art automated essay scoring: Competition, results, and future
+  directions from a united states demonstration}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Assessing Writing}{20}{}{53--76}.
+\PrintBackRefs{\CurrentBib}
+
+\end{thebibliography}

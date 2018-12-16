@@ -1,0 +1,381 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.12.16)  16 DEC 2018 15:12
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**CogSci_Template.tex
+(./CogSci_Template.tex
+LaTeX2e <2018-04-01> patch level 2
+Babel <3.18> and hyphenation patterns for 84 language(s) loaded.
+(/usr/local/texlive/2018/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2018/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+) (./cogsci.sty
+Conference Style for COGSCI -- last modified October 24, 2006
+) (/usr/local/texlive/2018/texmf-dist/tex/latex/pslatex/pslatex.sty
+Package: pslatex 1996/07/24 v1.2 pslatex emulation (DPC)
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 65.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/ptmcm/m/n on input line 65.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/ptmcm/m/n on input line 65.
+LaTeX Font Info:    Redeclaring symbol font `letters' on input line 66.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/ptmcm/m/it on input line 66.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/ptmcm/m/it on input line 66.
+LaTeX Font Info:    Redeclaring symbol font `symbols' on input line 67.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/pzccm/m/n on input line 67.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/pzccm/m/n on input line 67.
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 68.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/psycm/m/n on input line 68.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/psycm/m/n on input line 68.
+\symbold=\mathgroup4
+\symitalic=\mathgroup5
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 74.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/ptm/bx/n on input line 74.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/ptm/bx/n on input line 74.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 75.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/ptm/m/it on input line 75.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/ptm/m/it on input line 75.
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/apacite/apacite.sty
+Package: apacite 2013/07/21 v6.03 APA citation
+\c@BibCnt=\count88
+\bibleftmargin=\skip43
+\bibindent=\skip44
+\bibparsep=\skip45
+\bibitemsep=\skip46
+\biblabelsep=\skip47
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2016/04/27 v1.618033 publication quality tables
+\heavyrulewidth=\dimen105
+\lightrulewidth=\dimen106
+\cmidrulewidth=\dimen107
+\belowrulesep=\dimen108
+\belowbottomsep=\dimen109
+\aboverulesep=\dimen110
+\abovetopsep=\dimen111
+\cmidrulesep=\dimen112
+\cmidrulekern=\dimen113
+\defaultaddspace=\dimen114
+\@cmidla=\count89
+\@cmidlb=\count90
+\@aboverulesep=\dimen115
+\@belowrulesep=\dimen116
+\@thisruleclass=\count91
+\@lastruleclass=\count92
+\@thisrulewidth=\dimen117
+)
+(./CogSci_Template.aux)
+\openout1 = `CogSci_Template.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for OMS/pzccm/m/n on input line 43.
+LaTeX Font Info:    Try loading font information for OMS+pzccm on input line 43
+.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/psnfss/omspzccm.fd
+File: omspzccm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/pzccm.
+)
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+\c@maskedRefs=\count93
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/apacite/english.apc
+File: english.apc 2013/07/21 v6.03 apacite language file
+LaTeX Info: Redefining \BPBI on input line 129.
+LaTeX Info: Redefining \BHBI on input line 130.
+)
+(/usr/local/texlive/2018/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count94
+\scratchdimen=\dimen118
+\scratchbox=\box26
+\nofMPsegments=\count95
+\nofMParguments=\count96
+\everyMPshowfont=\toks15
+\MPscratchCnt=\count97
+\MPscratchDim=\dimen119
+\MPnumerator=\count98
+\makeMPintoPDFobject=\count99
+\everyMPtoPDFconversion=\toks16
+) (/usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)))
+(/usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2018/01/30 v0.27 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 45.
+LaTeX Font Info:    Try loading font information for OT1+ptmcm on input line 45
+.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/psnfss/ot1ptmcm.fd
+File: ot1ptmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ptmcm.
+)
+LaTeX Font Info:    Try loading font information for OML+ptmcm on input line 45
+.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/psnfss/omlptmcm.fd
+File: omlptmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ptmcm.
+)
+LaTeX Font Info:    Try loading font information for OMX+psycm on input line 45
+.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/psnfss/omxpsycm.fd
+File: omxpsycm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/psycm.
+)
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 45.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 45.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 45.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 45.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 50.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 54.
+
+Underfull \hbox (badness 1097) in paragraph at lines 66--67
+\OT1/ptm/m/n/10 Dominant cog-ni-tive the-o-ries be-lieve that peo-ple learn a
+ []
+
+<img/DatasetArray.png, id=1, 740.7675pt x 121.45375pt>
+File: img/DatasetArray.png Graphic file (type png)
+<use img/DatasetArray.png>
+Package pdftex.def Info: img/DatasetArray.png  used on input line 70.
+(pdftex.def)             Requested size: 518.5337pt x 85.01703pt.
+
+Overfull \hbox (12.6437pt too wide) in paragraph at lines 70--71
+ [] 
+ []
+
+[1{/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
+
+
+
+]
+Underfull \hbox (badness 1939) in paragraph at lines 79--80
+\OT1/ptm/m/n/10 These in-clude re-mov-ing com-monly used words ("stop-
+ []
+
+
+Underfull \hbox (badness 2343) in paragraph at lines 86--87
+\OT1/ptm/m/n/10 to-kens which in-flu-ences the scores of the es-says, we
+ []
+
+
+Underfull \hbox (badness 2293) in paragraph at lines 86--87
+\OT1/ptm/m/n/10 fre-quency{inverse doc-u-ment fre-quency (tf-idf) weigh-ing
+ []
+
+
+Underfull \vbox (badness 2057) has occurred while \output is active []
+
+<img/SVD.png, id=11, 359.3425pt x 175.65625pt>
+File: img/SVD.png Graphic file (type png)
+<use img/SVD.png>
+Package pdftex.def Info: img/SVD.png  used on input line 104.
+(pdftex.def)             Requested size: 233.56985pt x 114.1752pt.
+ [2 <./img/DatasetArray.png>]
+<img/SVDReduced.png, id=19, 365.365pt x 171.64125pt>
+File: img/SVDReduced.png Graphic file (type png)
+<use img/SVDReduced.png>
+Package pdftex.def Info: img/SVDReduced.png  used on input line 117.
+(pdftex.def)             Requested size: 237.48444pt x 111.56548pt.
+ [3 <./img/SVD.png> <./img/SVDReduced.png>]
+Underfull \hbox (badness 1072) in paragraph at lines 161--162
+ \OT1/ptm/b/n/10 Find-ing the op-ti-mal Di-men-sion-al-ity \OT1/ptm/m/n/10 For 
+each n-gram
+ []
+
+<img/Q1Ngram5to15.png, id=26, 1123.7985pt x 647.7801pt>
+File: img/Q1Ngram5to15.png Graphic file (type png)
+<use img/Q1Ngram5to15.png>
+Package pdftex.def Info: img/Q1Ngram5to15.png  used on input line 165.
+(pdftex.def)             Requested size: 224.75572pt x 129.55373pt.
+<img/Q1F1ByNgramsAcrossDimensions.png, id=27, 1310.9778pt x 647.7801pt>
+File: img/Q1F1ByNgramsAcrossDimensions.png Graphic file (type png)
+<use img/Q1F1ByNgramsAcrossDimensions.png>
+Package pdftex.def Info: img/Q1F1ByNgramsAcrossDimensions.png  used on input li
+ne 174.
+(pdftex.def)             Requested size: 229.42455pt x 113.3632pt.
+<img/Q1OptimumDimensions.png, id=28, 1102.3584pt x 714.9912pt>
+File: img/Q1OptimumDimensions.png Graphic file (type png)
+<use img/Q1OptimumDimensions.png>
+Package pdftex.def Info: img/Q1OptimumDimensions.png  used on input line 184.
+(pdftex.def)             Requested size: 220.46777pt x 142.9957pt.
+<img/OptimumDimensions.png, id=29, 1116.5715pt x 640.0713pt>
+File: img/OptimumDimensions.png Graphic file (type png)
+<use img/OptimumDimensions.png>
+Package pdftex.def Info: img/OptimumDimensions.png  used on input line 196.
+(pdftex.def)             Requested size: 223.31033pt x 128.01198pt.
+[4 <./img/Q1Ngram5to15.png> <./img/Q1F1ByNgramsAcrossDimensions.png> <./img/Q1O
+ptimumDimensions.png>]
+<img/Q1F1ByNgrams.png, id=36, 1109.5854pt x 714.9912pt>
+File: img/Q1F1ByNgrams.png Graphic file (type png)
+<use img/Q1F1ByNgrams.png>
+Package pdftex.def Info: img/Q1F1ByNgrams.png  used on input line 207.
+(pdftex.def)             Requested size: 199.71675pt x 128.69286pt.
+<img/F1ByOptimumRanges.png, id=37, 1270.5066pt x 640.0713pt>
+File: img/F1ByOptimumRanges.png Graphic file (type png)
+<use img/F1ByOptimumRanges.png>
+Package pdftex.def Info: img/F1ByOptimumRanges.png  used on input line 220.
+(pdftex.def)             Requested size: 222.34198pt x 112.01414pt.
+<img/F1ByQuestions.png, id=38, 1095.1314pt x 640.0713pt>
+File: img/F1ByQuestions.png Graphic file (type png)
+<use img/F1ByQuestions.png>
+Package pdftex.def Info: img/F1ByQuestions.png  used on input line 227.
+(pdftex.def)             Requested size: 208.07712pt x 121.6148pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 3128) has occurred while \output is active []
+
+ [5 <./img/OptimumDimensions.png> <./img/Q1F1ByNgrams.png> <./img/F1ByOptimumRa
+nges.png>]
+(./CogSci_Template.bbl
+Underfull \hbox (badness 1895) in paragraph at lines 14--26
+[]\OT1/ptm/m/n/10 Hewlett, F.  (2012).  \OT1/ptm/m/it/10 The Hewlett Foun-da-ti
+on: Au-
+ []
+
+
+Underfull \hbox (badness 1142) in paragraph at lines 14--26
+\OT1/ptm/m/it/10 to-mated Es-say Scor-ing.  \OT1/ptm/m/n/10 Re-trieved 2018-12-
+16, from
+ []
+
+) [6 <./img/F1ByQuestions.png>] (./CogSci_Template.aux) ) 
+Here is how much of TeX's memory you used:
+ 2268 strings out of 492649
+ 32549 string characters out of 6129621
+ 100552 words of memory out of 5000000
+ 6097 multiletter control sequences out of 15000+600000
+ 31680 words of font info for 62 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 41i,9n,25p,1216b,248s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/20
+18/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2018/texmf-dist/f
+onts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2018/texmf-dist/fo
+nts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2018/texmf-dist/font
+s/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2018/texmf-dist/fonts
+/type1/urw/courier/ucrr8a.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/u
+rw/symbol/usyr.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/urw/times/ut
+mb8a.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/urw/times/utmr8a.pfb><
+/usr/local/texlive/2018/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on CogSci_Template.pdf (6 pages, 3056608 bytes).
+PDF statistics:
+ 77 PDF objects out of 1000 (max. 8388607)
+ 40 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 51 words of extra memory for PDF output out of 10000 (max. 10000000)
+
