@@ -24,8 +24,8 @@ Automated Essay Grading; Latent Semantic Analysis; Singular Vector Decomposition
 * Landauer, T. K., Foltz, P. W., & Laham, D. (1998). An introduction to latent semantic analysis. Discourse processes, 25(2-3), 259–284.
 * Shermis, M. D. (2014). State-of-the-art automated essay scoring: Competition, results, and future directions from a united states demonstration. Assessing Writing, 20, 53–76.
 
-## Download Paper
-[Automated Essay Grading using Latent Semantic Analysis Write-up](AES_paper.pdf)
+## Paper
+[Final Paper](AES_paper.pdf)
 
 ## To run the program
 
@@ -84,8 +84,6 @@ visualize.main()
 |____visualize.py
 
 |____training_set.csv (the essay and score dataset we use)
-
-|____latex (directory containing latex and bibtex to generate the write-up)
 
 |____img (directory containing the matplotlib graphs)
 |____data (directory containing the processed essay data and statistics)

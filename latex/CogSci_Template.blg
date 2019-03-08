@@ -15,42 +15,42 @@ Database file #1: CogSci_Template.bib
 apacite.bst [2013/07/21 v6.03 APA bibliography style]
 You've used 5 entries,
             6951 wiz_defined-function locations,
-            1305 strings with 11592 characters,
-and the built_in function-call counts, 9539 in all, are:
-= -- 1207
-> -- 68
-< -- 461
-+ -- 476
-- -- 10
-* -- 606
-:= -- 1809
+            1303 strings with 11601 characters,
+and the built_in function-call counts, 9170 in all, are:
+= -- 1159
+> -- 59
+< -- 452
++ -- 446
+- -- 12
+* -- 577
+:= -- 1776
 add.period$ -- 22
 call.type$ -- 5
 change.case$ -- 86
 chr.to.int$ -- 0
 cite$ -- 10
-duplicate$ -- 208
-empty$ -- 361
-format.name$ -- 98
-if$ -- 1803
+duplicate$ -- 179
+empty$ -- 353
+format.name$ -- 80
+if$ -- 1734
 int.to.chr$ -- 0
 int.to.str$ -- 15
 missing$ -- 0
-newline$ -- 120
+newline$ -- 116
 num.names$ -- 40
-pop$ -- 199
+pop$ -- 241
 preamble$ -- 1
 purify$ -- 20
 quote$ -- 0
-skip$ -- 602
+skip$ -- 549
 stack$ -- 0
-substring$ -- 524
-swap$ -- 132
-text.length$ -- 16
+substring$ -- 488
+swap$ -- 111
+text.length$ -- 17
 text.prefix$ -- 0
 top$ -- 1
 type$ -- 464
 warning$ -- 0
-while$ -- 35
+while$ -- 28
 width$ -- 0
-write$ -- 140
+write$ -- 129

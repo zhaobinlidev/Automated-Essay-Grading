@@ -1,6 +1,31 @@
 \begin{thebibliography}{}
 
 \bibitem [\protect \citeauthoryear {%
+ETS%
+}{%
+ETS%
+}{%
+{\protect \APACyear {2019}}%
+}]{%
+ets2019aes}
+\APACinsertmetastar {%
+ets2019aes}%
+\begin{APACrefauthors}%
+ETS.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2019}{}{}.
+\newblock
+\APACrefbtitle {{ETS} {Research}: {Automated} {Scoring} of {Writing}
+  {Quality}.} {{ETS} {Research}: {Automated} {Scoring} of {Writing} {Quality}.}
+\newblock
+\begin{APACrefURL}
+  [{2019-02-17}]\url{https://www.ets.org/research/topics/as\_nlp/writing\_quality}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Hewlett%
 }{%
 Hewlett%
@@ -75,33 +100,6 @@ Kintsch, W.%
   analysis for machine grading of clinical case summaries}.{\BBCQ}
 \newblock
 \APACjournalVolNumPages{Journal of biomedical informatics}{35}{1}{3--7}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem [\protect \citeauthoryear {%
-Landauer%
-, Foltz%
-\BCBL {}\ \BBA {} Laham%
-}{%
-Landauer%
-\ \protect \BOthers {.}}{%
-{\protect \APACyear {1998}}%
-}]{%
-landauer1998introduction}
-\APACinsertmetastar {%
-landauer1998introduction}%
-\begin{APACrefauthors}%
-Landauer, T\BPBI K.%
-, Foltz, P\BPBI W.%
-\BCBL {}\ \BBA {} Laham, D.%
-\end{APACrefauthors}%
-\unskip\
-\newblock
-\APACrefYearMonthDay{1998}{}{}.
-\newblock
-{\BBOQ}\APACrefatitle {An introduction to latent semantic analysis} {An
-  introduction to latent semantic analysis}.{\BBCQ}
-\newblock
-\APACjournalVolNumPages{Discourse processes}{25}{2-3}{259--284}.
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
