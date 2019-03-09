@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.12.16)  7 MAR 2019 22:36
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.12.16)  8 MAR 2019 21:00
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -141,27 +141,31 @@ Package: verbatim 2014/10/28 v1.5q LaTeX2e package for verbatim enhancements
 \verbatim@line=\toks19
 \verbatim@in@stream=\read1
 )
+(/usr/local/texlive/2018/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
 (./CogSci_Template.aux)
 \openout1 = `CogSci_Template.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for OMS/pzccm/m/n on input line 47.
-LaTeX Font Info:    Try loading font information for OMS+pzccm on input line 47
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for OMS/pzccm/m/n on input line 48.
+LaTeX Font Info:    Try loading font information for OMS+pzccm on input line 48
 .
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/psnfss/omspzccm.fd
 File: omspzccm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/pzccm.
 )
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
 \c@maskedRefs=\count94
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/apacite/english.apc
@@ -239,49 +243,49 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 49.
-LaTeX Font Info:    Try loading font information for OT1+ptmcm on input line 49
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 50.
+LaTeX Font Info:    Try loading font information for OT1+ptmcm on input line 50
 .
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/psnfss/ot1ptmcm.fd
 File: ot1ptmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ptmcm.
 )
-LaTeX Font Info:    Try loading font information for OML+ptmcm on input line 49
+LaTeX Font Info:    Try loading font information for OML+ptmcm on input line 50
 .
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/psnfss/omlptmcm.fd
 File: omlptmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ptmcm.
 )
-LaTeX Font Info:    Try loading font information for OMX+psycm on input line 49
+LaTeX Font Info:    Try loading font information for OMX+psycm on input line 50
 .
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/psnfss/omxpsycm.fd
 File: omxpsycm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/psycm.
 )
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 49.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 50.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 49.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 50.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 49.
-LaTeX Font Info:    Try loading font information for U+msa on input line 49.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 50.
+LaTeX Font Info:    Try loading font information for U+msa on input line 50.
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 49.
+LaTeX Font Info:    Try loading font information for U+msb on input line 50.
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 49.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 50.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 54.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 55.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 58.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 59.
 
-Underfull \hbox (badness 1097) in paragraph at lines 72--73
+Underfull \hbox (badness 1097) in paragraph at lines 73--74
 \OT1/ptm/m/n/10 Dominant cog-ni-tive the-o-ries be-lieve that peo-ple learn a
  []
 
@@ -293,10 +297,10 @@ Underfull \hbox (badness 1097) in paragraph at lines 72--73
 <img/DatasetArray.png, id=10, 740.7675pt x 121.45375pt>
 File: img/DatasetArray.png Graphic file (type png)
 <use img/DatasetArray.png>
-Package pdftex.def Info: img/DatasetArray.png  used on input line 76.
+Package pdftex.def Info: img/DatasetArray.png  used on input line 77.
 (pdftex.def)             Requested size: 505.89pt x 82.94511pt.
 
-Underfull \hbox (badness 1939) in paragraph at lines 87--88
+Underfull \hbox (badness 1939) in paragraph at lines 88--89
 \OT1/ptm/m/n/10 These in-clude re-mov-ing com-monly used words ("stop-
  []
 
@@ -308,12 +312,12 @@ Package epstopdf Info: Source file: <img/SVD.eps>
 (epstopdf)                    size: 30020 bytes
 (epstopdf)             Command: <repstopdf --outfile=img/SVD-eps-converted-to.p
 df img/SVD.eps>
-(epstopdf)             \includegraphics on input line 110.
+(epstopdf)             \includegraphics on input line 111.
 Package epstopdf Info: Output file is already uptodate.
 <img/SVD-eps-converted-to.pdf, id=12, 227.85126pt x 133.49875pt>
 File: img/SVD-eps-converted-to.pdf Graphic file (type pdf)
 <use img/SVD-eps-converted-to.pdf>
-Package pdftex.def Info: img/SVD-eps-converted-to.pdf  used on input line 110.
+Package pdftex.def Info: img/SVD-eps-converted-to.pdf  used on input line 111.
 (pdftex.def)             Requested size: 243.91125pt x 142.91148pt.
 [2 <./img/SVD-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <img/SVDReduced.eps>
@@ -324,16 +328,16 @@ Package epstopdf Info: Source file: <img/SVDReduced.eps>
 (epstopdf)                    size: 28254 bytes
 (epstopdf)             Command: <repstopdf --outfile=img/SVDReduced-eps-convert
 ed-to.pdf img/SVDReduced.eps>
-(epstopdf)             \includegraphics on input line 122.
+(epstopdf)             \includegraphics on input line 123.
 Package epstopdf Info: Output file is already uptodate.
 <img/SVDReduced-eps-converted-to.pdf, id=26, 227.85126pt x 138.5175pt>
 File: img/SVDReduced-eps-converted-to.pdf Graphic file (type pdf)
 <use img/SVDReduced-eps-converted-to.pdf>
 Package pdftex.def Info: img/SVDReduced-eps-converted-to.pdf  used on input lin
-e 122.
+e 123.
 (pdftex.def)             Requested size: 243.91125pt x 148.2841pt.
  [3 <./img/DatasetArray.png> <./img/SVDReduced-eps-converted-to.pdf>]
-Underfull \hbox (badness 1072) in paragraph at lines 166--167
+Underfull \hbox (badness 1072) in paragraph at lines 167--168
  \OT1/ptm/b/n/10 Find-ing the op-ti-mal Di-men-sion-al-ity \OT1/ptm/m/n/10 For 
 each n-gram
  []
@@ -346,13 +350,13 @@ Package epstopdf Info: Source file: <img/Q1Ngram5to15.eps>
 (epstopdf)                    size: 15856 bytes
 (epstopdf)             Command: <repstopdf --outfile=img/Q1Ngram5to15-eps-conve
 rted-to.pdf img/Q1Ngram5to15.eps>
-(epstopdf)             \includegraphics on input line 170.
+(epstopdf)             \includegraphics on input line 171.
 Package epstopdf Info: Output file is already uptodate.
-<img/Q1Ngram5to15-eps-converted-to.pdf, id=39, 433.62pt x 289.08pt>
+<img/Q1Ngram5to15-eps-converted-to.pdf, id=38, 433.62pt x 289.08pt>
 File: img/Q1Ngram5to15-eps-converted-to.pdf Graphic file (type pdf)
 <use img/Q1Ngram5to15-eps-converted-to.pdf>
 Package pdftex.def Info: img/Q1Ngram5to15-eps-converted-to.pdf  used on input l
-ine 170.
+ine 171.
 (pdftex.def)             Requested size: 243.91125pt x 162.60709pt.
 Package epstopdf Info: Source file: <img/Q1F1ByNgramsAcrossDimensions.eps>
 (epstopdf)                    date: 2019-02-23 21:09:33
@@ -363,15 +367,15 @@ rted-to.pdf>
 (epstopdf)                    size: 18685 bytes
 (epstopdf)             Command: <repstopdf --outfile=img/Q1F1ByNgramsAcrossDime
 nsions-eps-converted-to.pdf img/Q1F1ByNgramsAcrossDimensions.eps>
-(epstopdf)             \includegraphics on input line 180.
+(epstopdf)             \includegraphics on input line 181.
 Package epstopdf Info: Output file is already uptodate.
-<img/Q1F1ByNgramsAcrossDimensions-eps-converted-to.pdf, id=40, 494.84875pt x 27
+<img/Q1F1ByNgramsAcrossDimensions-eps-converted-to.pdf, id=39, 494.84875pt x 27
 4.02374pt>
 File: img/Q1F1ByNgramsAcrossDimensions-eps-converted-to.pdf Graphic file (type 
 pdf)
 <use img/Q1F1ByNgramsAcrossDimensions-eps-converted-to.pdf>
 Package pdftex.def Info: img/Q1F1ByNgramsAcrossDimensions-eps-converted-to.pdf 
- used on input line 180.
+ used on input line 181.
 (pdftex.def)             Requested size: 243.91125pt x 135.06725pt.
 Package epstopdf Info: Source file: <img/Q1OptimumDimensions.eps>
 (epstopdf)                    date: 2019-02-23 18:12:03
@@ -382,14 +386,14 @@ df>
 (epstopdf)                    size: 15909 bytes
 (epstopdf)             Command: <repstopdf --outfile=img/Q1OptimumDimensions-ep
 s-converted-to.pdf img/Q1OptimumDimensions.eps>
-(epstopdf)             \includegraphics on input line 190.
+(epstopdf)             \includegraphics on input line 191.
 Package epstopdf Info: Output file is already uptodate.
-<img/Q1OptimumDimensions-eps-converted-to.pdf, id=41, 390.45876pt x 298.11375pt
+<img/Q1OptimumDimensions-eps-converted-to.pdf, id=40, 390.45876pt x 298.11375pt
 >
 File: img/Q1OptimumDimensions-eps-converted-to.pdf Graphic file (type pdf)
 <use img/Q1OptimumDimensions-eps-converted-to.pdf>
 Package pdftex.def Info: img/Q1OptimumDimensions-eps-converted-to.pdf  used on 
-input line 190.
+input line 191.
 (pdftex.def)             Requested size: 243.91125pt x 186.22511pt.
 Package epstopdf Info: Source file: <img/OptimumDimensions.eps>
 (epstopdf)                    date: 2019-03-07 20:10:47
@@ -400,17 +404,17 @@ Package epstopdf Info: Source file: <img/OptimumDimensions.eps>
 (epstopdf)                    size: 12708 bytes
 (epstopdf)             Command: <repstopdf --outfile=img/OptimumDimensions-eps-
 converted-to.pdf img/OptimumDimensions.eps>
-(epstopdf)             \includegraphics on input line 203.
+(epstopdf)             \includegraphics on input line 204.
 Package epstopdf Info: Output file is already uptodate.
-<img/OptimumDimensions-eps-converted-to.pdf, id=42, 396.48125pt x 272.01625pt>
+<img/OptimumDimensions-eps-converted-to.pdf, id=41, 396.48125pt x 272.01625pt>
 File: img/OptimumDimensions-eps-converted-to.pdf Graphic file (type pdf)
 <use img/OptimumDimensions-eps-converted-to.pdf>
 Package pdftex.def Info: img/OptimumDimensions-eps-converted-to.pdf  used on in
-put line 203.
+put line 204.
 (pdftex.def)             Requested size: 243.91125pt x 167.34503pt.
 [4 <./img/Q1Ngram5to15-eps-converted-to.pdf> <./img/Q1F1ByNgramsAcrossDimension
 s-eps-converted-to.pdf>]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 2065) has occurred while \output is active []
 
 Package epstopdf Info: Source file: <img/Q1F1ByNgrams.eps>
 (epstopdf)                    date: 2019-03-07 20:14:28
@@ -420,13 +424,13 @@ Package epstopdf Info: Source file: <img/Q1F1ByNgrams.eps>
 (epstopdf)                    size: 13951 bytes
 (epstopdf)             Command: <repstopdf --outfile=img/Q1F1ByNgrams-eps-conve
 rted-to.pdf img/Q1F1ByNgrams.eps>
-(epstopdf)             \includegraphics on input line 217.
+(epstopdf)             \includegraphics on input line 218.
 Package epstopdf Info: Output file is already uptodate.
 <img/Q1F1ByNgrams-eps-converted-to.pdf, id=123, 394.47375pt x 298.11375pt>
 File: img/Q1F1ByNgrams-eps-converted-to.pdf Graphic file (type pdf)
 <use img/Q1F1ByNgrams-eps-converted-to.pdf>
 Package pdftex.def Info: img/Q1F1ByNgrams-eps-converted-to.pdf  used on input l
-ine 217.
+ine 218.
 (pdftex.def)             Requested size: 243.91125pt x 184.32823pt.
 Package epstopdf Info: Source file: <img/F1ByQuestions.eps>
 (epstopdf)                    date: 2019-03-07 20:27:39
@@ -436,14 +440,17 @@ Package epstopdf Info: Source file: <img/F1ByQuestions.eps>
 (epstopdf)                    size: 15813 bytes
 (epstopdf)             Command: <repstopdf --outfile=img/F1ByQuestions-eps-conv
 erted-to.pdf img/F1ByQuestions.eps>
-(epstopdf)             \includegraphics on input line 231.
+(epstopdf)             \includegraphics on input line 232.
 Package epstopdf Info: Output file is already uptodate.
 <img/F1ByQuestions-eps-converted-to.pdf, id=124, 388.45125pt x 294.09875pt>
 File: img/F1ByQuestions-eps-converted-to.pdf Graphic file (type pdf)
 <use img/F1ByQuestions-eps-converted-to.pdf>
 Package pdftex.def Info: img/F1ByQuestions-eps-converted-to.pdf  used on input 
-line 231.
+line 232.
 (pdftex.def)             Requested size: 243.91125pt x 184.66838pt.
+
+Underfull \vbox (badness 4291) has occurred while \output is active []
+
  [5 <./img/Q1OptimumDimensions-eps-converted-to.pdf> <./img/OptimumDimensions-e
 ps-converted-to.pdf> <./img/Q1F1ByNgrams-eps-converted-to.pdf>] (./optimized_re
 sults.tex)
@@ -451,61 +458,37 @@ sults.tex)
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 (./CogSci_Template.bbl
-Underfull \hbox (badness 2951) in paragraph at lines 14--27
-[]\OT1/ptm/m/n/10 ETS.  (2019).  \OT1/ptm/m/it/10 ETS Re-search: Au-to-mated Sc
-or-ing
- []
-
-
-Underfull \hbox (badness 6047) in paragraph at lines 14--27
-\OT1/ptm/m/it/10 of Writ-ing Qual-ity.  \OT1/ptm/m/n/10 Re-trieved 2019-02-17, 
-from
- []
-
-
-Overfull \hbox (57.92113pt too wide) in paragraph at lines 14--27
-\OT1/pcr/m/n/10 https://www.ets.org/research/topics/as[]nlp/writing[]quality
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 14--27
-
- []
-
-
-Underfull \hbox (badness 1895) in paragraph at lines 39--51
-[]\OT1/ptm/m/n/10 Hewlett, F.  (2012).  \OT1/ptm/m/it/10 The Hewlett Foun-da-ti
-on: Au-
- []
-
-
-Underfull \hbox (badness 1142) in paragraph at lines 39--51
-\OT1/ptm/m/it/10 to-mated Es-say Scor-ing.  \OT1/ptm/m/n/10 Re-trieved 2018-12-
-16, from
+Underfull \hbox (badness 7667) in paragraph at lines 14--27
+[]\OT1/ptm/m/n/10 Educational Test-ing Ser-vice.  (2019).  \OT1/ptm/m/it/10 ETS
+ Re-
  []
 
 [6 <./img/F1ByQuestions-eps-converted-to.pdf>]) [7
 
-] (./CogSci_Template.aux) ) 
+] (./CogSci_Template.aux)
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
 Here is how much of TeX's memory you used:
- 2674 strings out of 492649
- 38292 string characters out of 6129621
- 104324 words of memory out of 5000000
- 6472 multiletter control sequences out of 15000+600000
+ 2729 strings out of 492649
+ 39031 string characters out of 6129621
+ 104829 words of memory out of 5000000
+ 6524 multiletter control sequences out of 15000+600000
  32926 words of font info for 68 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,9n,27p,1598b,255s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/
-base/8r.enc}</usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/
-cmmi10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/c
-mr10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cms
-y10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/symbols
-/msam10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/urw/courier/ucrr8a.
-pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/urw/symbol/usyr.pfb></usr/l
-ocal/texlive/2018/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texli
-ve/2018/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2018/te
-xmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on CogSci_Template.pdf (7 pages, 317786 bytes).
+ 41i,9n,27p,1600b,298s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
+exlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/te
+xlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texl
+ive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texli
+ve/2018/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/local/t
+exlive/2018/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/local/texlive/2
+018/texmf-dist/fonts/type1/urw/symbol/usyr.pfb></usr/local/texlive/2018/texmf-d
+ist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2018/texmf-dist/fonts/
+type1/urw/times/utmr8a.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/urw/
+times/utmri8a.pfb>
+Output written on CogSci_Template.pdf (7 pages, 317949 bytes).
 PDF statistics:
  302 PDF objects out of 1000 (max. 8388607)
  75 compressed objects within 1 object stream

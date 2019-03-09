@@ -1,9 +1,9 @@
 \begin{thebibliography}{}
 
 \bibitem [\protect \citeauthoryear {%
-ETS%
+{Educational Testing Service}%
 }{%
-ETS%
+{Educational Testing Service}%
 }{%
 {\protect \APACyear {2019}}%
 }]{%
@@ -11,7 +11,7 @@ ets2019aes}
 \APACinsertmetastar {%
 ets2019aes}%
 \begin{APACrefauthors}%
-ETS.%
+{Educational Testing Service}.%
 \end{APACrefauthors}%
 \unskip\
 \newblock
@@ -21,31 +21,7 @@ ETS.%
   {Quality}.} {{ETS} {Research}: {Automated} {Scoring} of {Writing} {Quality}.}
 \newblock
 \begin{APACrefURL}
-  [{2019-02-17}]\url{https://www.ets.org/research/topics/as\_nlp/writing\_quality}
-  \end{APACrefURL}
-\PrintBackRefs{\CurrentBib}
-
-\bibitem [\protect \citeauthoryear {%
-Hewlett%
-}{%
-Hewlett%
-}{%
-{\protect \APACyear {2012}}%
-}]{%
-hewlett2012aes}
-\APACinsertmetastar {%
-hewlett2012aes}%
-\begin{APACrefauthors}%
-Hewlett, F.%
-\end{APACrefauthors}%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2012}{}{}.
-\newblock
-\APACrefbtitle {The {Hewlett} {Foundation}: {Automated} {Essay} {Scoring}.}
-  {The {Hewlett} {Foundation}: {Automated} {Essay} {Scoring}.}
-\newblock
-\begin{APACrefURL} [{2018-12-16}]\url{https://www.kaggle.com/c/asap-aes}
+  \url{https://www.ets.org/research/topics/as\_nlp/writing\_quality}
   \end{APACrefURL}
 \PrintBackRefs{\CurrentBib}
 
@@ -125,6 +101,28 @@ Shermis, M\BPBI D.%
   directions from a united states demonstration}.{\BBCQ}
 \newblock
 \APACjournalVolNumPages{Assessing Writing}{20}{}{53--76}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+{The Hewlett Foundation}%
+}{%
+{The Hewlett Foundation}%
+}{%
+{\protect \APACyear {2012}}%
+}]{%
+hewlett2012aes}
+\APACinsertmetastar {%
+hewlett2012aes}%
+\begin{APACrefauthors}%
+{The Hewlett Foundation}.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2012}{}{}.
+\newblock
+\APACrefbtitle {Overview.} {Overview.}
+\newblock
+\begin{APACrefURL} \url{https://www.kaggle.com/c/asap-aes} \end{APACrefURL}
 \PrintBackRefs{\CurrentBib}
 
 \end{thebibliography}

@@ -22,13 +22,14 @@
 
 \usepackage{cogsci}
 \usepackage{pslatex}
-\usepackage{apacite}
-\usepackage{graphicx} %includegrahics
+\usepackage{apacite} %apa citation
+\usepackage{graphicx} %include grahics
 \usepackage{booktabs} %optimized results table
-\usepackage{import}
+\usepackage{import} %import optimized_results.tex
 \usepackage{amssymb} %copyright r sign
-\usepackage{float}
-\usepackage{verbatim} %comment
+\usepackage{float} %graphics container
+\usepackage{verbatim} %multi line comment
+\usepackage{url} %bib url line breaks
 
 \title{Automatic Essay Grading with Latent Semantic Analysis}
  
@@ -57,7 +58,7 @@ Automated Essay Grading; Latent Semantic Analysis; Singular Vector Decomposition
 
 \section{Introduction}
 
-With an increased emphasis on standardized testing, but limited resources to grade writing on standardized tests, an interest in Automated Essay Scoring (AES) has emerged \cite{shermis2014state}. A 2012 Kaggle competition showcased state-of-the-art implementations from both private corporations and research institutions and among these, three models were most prevalent among the top scoring models: Natural Language Processing using Recurrent Neural Networks, Statistical analysis using Bayesian models, and Latent Semantic Analysis \cite{shermis2014state}. Despite the common intuition that essay evaluation cannot be reduced to qualitative analysis and algorithms, the Kaggle competition demonstrated that in standardized testing, in cases where a large enough dataset is obtained, there is enough similarity across essays that computer models are able to score the essays accurately. In scoring the large-scale exams (the PARCC and SBAC) administrated to public schools across 6 US states, the top ten entries in the Kaggle competition achieved on average 98.75\% agreement with the human scores within one score point\cite{shermis2014state}. Furthermore, as the credibility of AES increases, standardized testing agencies are using commercial AES systems to assist human scores\cite{shermis2014state}. For instance, the Educational Testing Service are starting to implement the \textit{e-rater}$^{\circledR}$ to score writing sections in the prominent TOEFL iBT$^{\circledR}$ and GRE $^{\circledR}$ tests to assist human scorers \cite{ets2019aes}.
+With an increased emphasis on standardized testing, but limited resources to grade writing on standardized tests, an interest in Automated Essay Scoring (AES) has emerged \cite{shermis2014state}. A 2012 Kaggle competition showcased state-of-the-art implementations from both private corporations and research institutions and among these, three models were most prevalent among the top scoring models: Natural Language Processing using Recurrent Neural Networks, Statistical analysis using Bayesian models, and Latent Semantic Analysis \cite{shermis2014state}. Despite the common intuition that essay evaluation cannot be reduced to qualitative analysis and algorithms, the Kaggle competition demonstrated that in standardized testing, in cases where a large enough dataset is obtained, there is enough similarity across essays that computer models are able to score the essays accurately. In scoring the large-scale exams (the PARCC and SBAC) administrated to public schools across 6 US states, the top ten entries in the Kaggle competition achieved on average 98.75\% agreement with the human scores within one score point \cite{shermis2014state}. Furthermore, as the credibility of AES increases, standardized testing agencies are using commercial AES systems to assist human scores \cite{shermis2014state}. For instance, the Educational Testing Service are starting to implement the \textit{e-rater}$^{\circledR}$ to score writing sections in the prominent TOEFL iBT$^{\circledR}$ and GRE $^{\circledR}$ tests to assist human scorers \cite{ets2019aes}.
 
 Among the available methods, we chose to implement Latent Semantic Analysis (LSA) because LSA has relatively high accuracy given its low computational demands. LSA is a statistical method which approximates the human understanding of semantic relations between words and texts by mapping them into an abstract dimensional space \cite{kintsch2002potential}. Previous literature has shown that using 300-500 dimensions emulates human perception of language, but no literature has explicitly investigated the optimal dimensionality with regards to AES \cite{kintsch2002potential}. Hence, we aim to  investigate the ways that varying the dimensionality influence the accuracy of the model. In addition, LSA is criticized for analyzing texts by counting the number of times a word appear in a text and not considering the order of the words \cite{kintsch2002potential}. Hence, to improve the accuracy of AES in scoring undergraduate essays, \citeA{islam2010automated} used n-grams as the basic element of analysis rather than words and named their method as Generalized LSA(GLSA). However, Islam and Hoque do not detail the ways in which the types of n-gram influence the model accuracy. Hence, we would like to delve into these two essential features -- dimensionality and ngram -- in the LSA algorithm in improving the accuracy of the model and providing a more in-depth look at how it functions. GLSA implemented by Islam and Hoque serves as the starting point for our own implementation. 
 
@@ -73,9 +74,9 @@ Dominant cognitive theories believe that people learn a word's meaning partially
 
 \begin{figure*}[ht]
 \begin{center}
- \includegraphics[width=\linewidth]{img/DatasetArray.png}
+\includegraphics[width=\linewidth]{img/DatasetArray.png}
 \end{center}
- \caption{The Hewlett Foundation: Automated Essay Scoring dataset \cite{shermis2014state}}
+\caption{The Hewlett Foundation: Automated Essay Scoring dataset \cite{shermis2014state}}
 \end{figure*}
 
 \subsection{Dataset}
