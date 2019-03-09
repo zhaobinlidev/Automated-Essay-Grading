@@ -36,11 +36,12 @@ Automated Essay Grading; Latent Semantic Analysis; Singular Vector Decomposition
 * Numpy
 * Matplotlib
 * Nltk
+* Seaborn
 
 To install:
 
 ```python
-pip3 install sklearn scipy numpy matplotlib nltk
+pip3 install sklearn scipy numpy matplotlib nltk seaborn
 ```
 ### To run:
 
