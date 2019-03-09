@@ -17,12 +17,15 @@ underlying function of GLSA.
 ## Keywords
 Automated Essay Grading; Latent Semantic Analysis; Singular Vector Decomposition; N-Grams.
 
+
 ## References
-* Hewlett, F. (2012). The Hewlett Foundation: Automated Essay Scoring. Retrieved 2018-12-16, from https://www.kaggle.com/c/asap-aes
-* Islam, M. M., & Hoque, A. L. (2010). Automated essay scoring using generalized latent semantic analysis. In 2010 13th international conference on computer and information technology (iccit) (pp. 358–363).
-* Kintsch, W. (2002). The potential of latent semantic analysis for machine grading of clinical case summaries. Journal of biomedical informatics, 35(1), 3–7.
-* Landauer, T. K., Foltz, P. W., & Laham, D. (1998). An introduction to latent semantic analysis. Discourse processes, 25(2-3), 259–284.
-* Shermis, M. D. (2014). State-of-the-art automated essay scoring: Competition, results, and future directions from a united states demonstration. Assessing Writing, 20, 53–76.
+
+* Educational Testing Service. (2019). ETS Research: Automated Scoring of Writing Quality. Retrieved from https://www.ets.org/research/topics/as_nlp/writing_quality
+* Islam, M. M., & Hoque, A. L. (2010). Automated essay scoring using generalized latent semantic analysis. In 2010 13th International Conference on Computer and Information Technology (ICCIT) (pp. 358–363). IEEE.
+* Kintsch, W. (2002). The potential of latent semantic analysis for machine grading of clinical case summaries. Journal of Biomedical Informatics, 35(1), 3–7.
+* Landauer, T. K., Foltz, P. W., & Laham, D. (1998). An introduction to latent semantic analysis. Discourse Processes, 25(2–3), 259–284.
+* Shermis, M. D. (2014). State-of-the-art automated essay scoring: Competition, results, and future directions from a United States demonstration. Assessing Writing, 20, 53–76.
+* The Hewlett Foundation. (2012). Overview. Retrieved from https://www.kaggle.com/c/asap-aes
 
 ## Paper
 [Final Paper](AES_paper.pdf)
