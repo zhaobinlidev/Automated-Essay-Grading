@@ -1,5 +1,7 @@
 # Automated Essay Grading using Latent Semantic Analysis
 
+For CS 328, Computational Models of Cognition, together with Owen Szafran
+
 ## Abstract
 
 Accurate and consistent Automated Essay Grading (AES) has been a challenge of machine learning and cognitive psychology, 
@@ -14,21 +16,24 @@ of words cannot fully capture the complexities of evaluating essays. We found th
 are not consistent across the 8 essay questions in the dataset, yet they reveal trends that provide insight into the 
 underlying function of GLSA.
 
-## Keywords
-Automated Essay Grading; Latent Semantic Analysis; Singular Vector Decomposition; N-Grams.
+## Results 
 
+On the [Kaggle AES competition dataset](https://www.kaggle.com/c/asap-aes)
 
-## References
+| Dataset Qn | Optimal Ngram | Optimal Dimension | F1 score | Accuracy | Abs. Error |
+| :--------: | :-----------: | :---------------: | :------: | :------: | :--------: |
+|     1      |    (5, 15)    |        921        |  0.240   |  0.619   |   1.287    |
+|     2      |    (1, 10)    |        968        |  0.427   |  0.441   |   1.347    |
+|     3      |    (1, 1)     |       1035        |  0.455   |  0.458   |   1.993    |
+|     4      |    (1, 3)     |        879        |  0.386   |  0.401   |   2.493    |
+|     5      |    (1, 1)     |       1083        |  0.348   |  0.349   |   2.118    |
+|     6      |    (1, 10)    |       1080        |  0.395   |  0.410   |   1.910    |
+|     7      |    (1, 3)     |        228        |  0.181   |  0.429   |   2.028    |
+|     8      |    (3, 15)    |        343        |  0.355   |  0.750   |   0.957    |
 
-* Educational Testing Service. (2019). ETS Research: Automated Scoring of Writing Quality. Retrieved from https://www.ets.org/research/topics/as_nlp/writing_quality
-* Islam, M. M., & Hoque, A. L. (2010). Automated essay scoring using generalized latent semantic analysis. In 2010 13th International Conference on Computer and Information Technology (ICCIT) (pp. 358–363). IEEE.
-* Kintsch, W. (2002). The potential of latent semantic analysis for machine grading of clinical case summaries. Journal of Biomedical Informatics, 35(1), 3–7.
-* Landauer, T. K., Foltz, P. W., & Laham, D. (1998). An introduction to latent semantic analysis. Discourse Processes, 25(2–3), 259–284.
-* Shermis, M. D. (2014). State-of-the-art automated essay scoring: Competition, results, and future directions from a United States demonstration. Assessing Writing, 20, 53–76.
-* The Hewlett Foundation. (2012). Overview. Retrieved from https://www.kaggle.com/c/asap-aes
+## Final paper 
 
-## Paper
-[Final Paper](AES_paper.pdf)
+Download [Final Paper](AES_paper.pdf)
 
 ## To run the program
 
@@ -51,9 +56,9 @@ pip3 install sklearn scipy numpy matplotlib nltk seaborn
 1. Import Classes
 
 ```python
-Import preprocessor
-Import run
-Import visualizer
+import preprocessor
+import run
+import visualizer
 ```
 
 2.	Run “preprocessor.main()” to process the all essays across all 8 questions:
