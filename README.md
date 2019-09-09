@@ -37,7 +37,9 @@ Download [Final Paper](AES_paper.pdf)
 
 ## To run the program
 
-### Python dependencies:
+### To install:
+
+Python dependencies:
 
 * Sklearn
 * Scipy
@@ -45,8 +47,6 @@ Download [Final Paper](AES_paper.pdf)
 * Matplotlib
 * Nltk
 * Seaborn
-
-To install:
 
 ```python
 pip3 install sklearn scipy numpy matplotlib nltk seaborn
@@ -83,7 +83,7 @@ run.main()
 visualize.main()
 ```
 
-#### Folder directory
+### Folder directory:
 
 ```
 |____metrics.py (all the python run code)
